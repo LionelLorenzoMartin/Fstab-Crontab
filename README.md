@@ -8,7 +8,6 @@
 
 
 
-
 # Ejercicios cron.  
 - Programar un trabajo (A) para ejecutarse en el minuto 30 de cada hora de cada día.
 30 * * * * root echo A >> /etc/trabajos
